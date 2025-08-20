@@ -29,13 +29,9 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/rishbh-arora-661a25250/)  
+[![LinkedIn](https://www.linkedin.com/in/rishbh-arora-661a25250/)
 
 ---
 
 ## ✨ Fun Quote
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rishbh-arora&color=blue)
