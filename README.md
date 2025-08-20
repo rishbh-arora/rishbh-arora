@@ -22,16 +22,14 @@
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishbh-arora&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishbh-arora&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishbh-arora&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link)  
+[![LinkedIn](https://www.linkedin.com/in/rishbh-arora-661a25250/)  
 
 ---
 
@@ -40,4 +38,4 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=rishbh-arora&color=blue)
